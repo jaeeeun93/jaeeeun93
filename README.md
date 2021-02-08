@@ -13,7 +13,7 @@ Tech Stack
 
 Me
 --
-<img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=vimeo&logoColor=white"/><a href="https://velog.io/@jaeeeun93"></a><br>
+<a href="https://velog.io/@jaeeeun93"><img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=vimeo&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/kakao-ffcd00?style=flat-square&logo=kakao&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
 
