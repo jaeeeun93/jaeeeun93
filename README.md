@@ -15,6 +15,6 @@ Me
 --
 <a href="https://velog.io/@jaeeeun93"><img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=vimeo&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/kakao-ffcd00?style=flat-square&logo=kakao&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
+<a href="mailto:jaeeeun93@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeeeun93%2Fhit-counter&count_bg=%23047BFE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
