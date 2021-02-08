@@ -1,6 +1,6 @@
-JaeUn Kim
+JaeUn Kim <img src="https://img.shields.io/github/followers/jaeeeun93?style=social">
 ---------
-<img src="https://img.shields.io/github/followers/jaeeeun93?style=social">
+
 
 ### Tech Stack
 <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white"/></a><br>
