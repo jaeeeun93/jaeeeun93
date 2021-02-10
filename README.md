@@ -1,7 +1,7 @@
 JaeUn Kim <img src="https://img.shields.io/github/followers/jaeeeun93?style=social">
 =========
 
-Tech Stack
+🛠Tech Stack
 ----------
 <a href="#"><img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white"/></a><br>
 <a href="#"><img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -11,7 +11,7 @@ Tech Stack
 <a href="#"><img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=white"/><a href="#"></a>
 <a href="#"><img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white"/></a><br>
 
-Me
+💻Me
 --
 <a href="https://velog.io/@jaeeeun93"><img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=vimeo&logoColor=white"/></a><br>
 <a href="mailto:jaeeeun93@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
