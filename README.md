@@ -1,7 +1,7 @@
 JaeUn Kim <img src="https://img.shields.io/github/followers/jaeeeun93?style=social">
 =========
 
-🛠Tech Stack(BackEnd)
+🛠Tech Stack(Back-nd)
 ----------
 <a href="#"><img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white"/></a><br>
 <a href="#"><img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"/></a>
