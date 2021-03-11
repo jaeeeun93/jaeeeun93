@@ -9,8 +9,8 @@ JaeUn Kim <img src="https://img.shields.io/github/followers/jaeeeun93?style=soci
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
 <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=white"/><a href="#"></a>
-<a href="#"><img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white"/></a><br>
-
+<a href="#"><img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Oracle-F00000?style=flat-square&logo=oracle&logoColor=white"/></a><br>
 💻Me
 --
 <a href="https://velog.io/@jaeeeun93"><img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=vimeo&logoColor=white"/></a><br>
